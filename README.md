@@ -70,7 +70,6 @@ Interface (GUI)** modes, making it versatile for different users.
     ├── banking_system.py        # Main program file
     ├── accounts.txt             # Stores account data
     ├── transactions.txt         # Stores transaction logs
-    ├── Banking_System_Presentation.pptx  # Project presentation slides
     ├── README.md                # Project documentation
 
 ------------------------------------------------------------------------
